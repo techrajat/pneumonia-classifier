@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <p>Pneumonia classification</p>
     </div>
   );
