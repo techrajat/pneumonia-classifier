@@ -6,6 +6,7 @@
 # backend
 chest_xray/
 myenv/
+__pycache__/
 
 # testing
 /coverage
