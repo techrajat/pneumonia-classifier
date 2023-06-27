@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#nav{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    font-weight: bold;
+    background-color: #ecfffc;
+}
+
+#main{
+    height: calc(100vh - 70px);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#formHead{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.container {
+    width: 100vw;
+    height: 300px;
+    border: 1px solid #ccc;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 2px dashed black;
+}
+
+#imageContainer img {
+    width: 300px;
+    height: 280px;
+}
+
+#custom-modal{
+    width: 435px;
+    height: 180px;
+}  
+
+#modalClose{
+    position: relative;
+    top: -51px;
+    padding: 10px;
+    border: none;
+    left: 360px;
+}
+
+#modalClose:hover{
+    background-color: red;
+}
+
+#result{
+    font-size: large;
+    font-weight: bold;
+}
