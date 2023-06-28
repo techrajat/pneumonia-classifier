@@ -13,6 +13,10 @@ The dataset used for training and testing the model is the "Labeled Optical Cohe
 - Dataset Citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 - Data: [Download Dataset](https://data.mendeley.com/datasets/rscbjbr9sj/2)
 
+## Model Accuracy
+
+The Pneumonia Classifier model has achieved an accuracy of 84% on the test dataset. This accuracy represents the model's ability to correctly classify pneumonia and non-pneumonia cases based on the provided chest X-ray images.
+
 ## Installation
 
 1. Clone the repository:
