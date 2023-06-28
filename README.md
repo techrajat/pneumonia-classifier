@@ -17,6 +17,14 @@ The dataset used for training and testing the model is the "Labeled Optical Cohe
 
 The Pneumonia Classifier model has achieved an accuracy of 84% on the test dataset. This accuracy represents the model's ability to correctly classify pneumonia and non-pneumonia cases based on the provided chest X-ray images.
 
+## Prerequisites
+
+Before running the Pneumonia Classifier project, make sure you have the following prerequisites installed:
+
+- [Python](https://www.python.org/downloads/) (v3.11 or higher)
+- [Node.js](https://nodejs.org/) (v18.16 or higher)
+- [npm](https://www.npmjs.com/) (v9.7 or higher)
+
 ## Installation
 
 1. Clone the repository:
