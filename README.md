@@ -4,6 +4,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/techrajat/pneumonia-classifier)
 ![GitHub stars](https://img.shields.io/github/stars/techrajat/pneumonia-classifier?style=social)
 
+https://github.com/techrajat/pneumonia-classifier/assets/118634923/825c671c-f76a-48da-97ae-3df2f9a0f481
+
 The Pneumonia Classifier is a machine learning model that uses chest X-ray images to classify whether a person has pneumonia or not. This project includes a Jupyter Notebook containing the model implementation and the user interface consists of a React website connected to a Flask backend.
 
 ## Dataset Citation
